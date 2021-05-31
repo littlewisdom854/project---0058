@@ -5,4 +5,4 @@ will not much really so
 
 
 
-how to add 
+how to add code/file . just click and drag
