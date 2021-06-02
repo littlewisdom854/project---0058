@@ -1,8 +1,16 @@
 # project---0058
-hay guys 
-will not much really so 
-\\ add oil \\
+
+How are the project? 
+
+
+combat game ()
 
 
 
-how to add code/file . just click and drag
+
+
+
+Char 
+not yet draw a charter , we will replace it at no time.
+
+
