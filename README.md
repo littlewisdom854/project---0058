@@ -28,3 +28,10 @@ Unity need to deployment with C#
 CODE HERE
 https://github.com/Fallout-Shelter-9527/project---0058
 
+
+Some test screen or sh-tpost
+
+https://github.com/Fallout-Shelter-9527/project---0058/issues
+
+
+                                                                                                      2021-6-9-John Wick
