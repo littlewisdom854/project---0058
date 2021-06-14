@@ -27,3 +27,4 @@ https://github.com/Fallout-Shelter-9527/project---0058/issues/5
 
 
 THE GATE.
+![Uploading 120416120-3745e800-c38f-11eb-8757-ec4319dff66e.png…]()
