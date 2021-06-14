@@ -23,7 +23,3 @@ CODE HERE
 
 Some test screen or sh-tpost
 
-
-
-
-                                                                                                      2021-6-9-John Wick
