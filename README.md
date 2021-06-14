@@ -23,3 +23,7 @@ CODE HERE
 
 Some test screen or sh-tpost
 
+https://github.com/Fallout-Shelter-9527/project---0058/issues/5
+
+
+THE GATE.
