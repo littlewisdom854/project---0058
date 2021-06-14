@@ -3,22 +3,14 @@
 How are the project? 
 
 
-combat game with unity2D/3D
+combat game with unity2D
 
 
 
+character 
 
-
-
-Char 
-not yet draw a charter , we will replace it at no time.
-
-
-Ok..char here
-
-https://github.com/Fallout-Shelter-9527/project---0058/issues/1
-
-
+![Character1](https://user-images.githubusercontent.com/65335874/121883308-28bedf80-cd44-11eb-86dd-ff3e8c83cab3.png)
+![Character_2](https://user-images.githubusercontent.com/65335874/121883337-2f4d5700-cd44-11eb-8362-dae205f24a67.png)
 
 
 created by Unity2D/3D
@@ -26,12 +18,12 @@ created by Unity2D/3D
 Unity need to deployment with C#
 
 CODE HERE
-https://github.com/Fallout-Shelter-9527/project---0058
+
 
 
 Some test screen or sh-tpost
 
-https://github.com/Fallout-Shelter-9527/project---0058/issues
+
 
 
                                                                                                       2021-6-9-John Wick
